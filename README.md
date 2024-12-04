@@ -18,36 +18,25 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 
    ## 📬 Contact Me
 
+## 📬 Contact Me
+
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Email</strong><br>
-        <a href="mailto:your-email@outlook.com">
-          <img src="https://img.shields.io/badge/Outlook-Email_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
-        </a>
-      </td>
-      <td align="center">
-        <strong>LinkedIn</strong><br>
-        <a href="https://www.linkedin.com/in/your-profile/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
-      </td>
-      <td align="center">
-        <strong>Discord</strong><br>
-        <a href="https://discord.com">
-          <img src="https://img.shields.io/badge/Discord-YourUsername%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-        </a>
-      </td>
-      <td align="center">
-        <strong>Instagram</strong><br>
-        <a href="https://www.instagram.com/yourusername/">
-          <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:your-email@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Email_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <br><br>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-YourUsername%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  </a>
+  <br><br>
+  <a href="https://www.instagram.com/yourusername/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
 
 </div>
 
