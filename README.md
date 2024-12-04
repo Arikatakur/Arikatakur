@@ -14,7 +14,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - Project Management
 
 ## 📫 Get in Touch
-   [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:saleemcollege@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saleem-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saleemyousef/) ![Discord](https://img.shields.io/badge/meryio-7289DA?style=flat&logo=discord&logoColor=white)
+   [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:saleemcollege@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saleem-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram&logoColor=red)](https://www.instagram.com/saleemyousef/) ![Discord](https://img.shields.io/badge/meryio-7289DA?style=flat&logo=discord&logoColor=white)
 
 ## 📬 My Contacts
 
