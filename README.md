@@ -28,19 +28,16 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
         </a>
       </td>
       <td align="center">
-        <strong>LinkedIn</strong><br>
         <a href="https://www.linkedin.com/in/saleemyousef/">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
       </td>
       <td align="center">
-        <strong>Discord</strong><br>
         <a href="https://discord.com">
           <img src="https://img.shields.io/badge/Discord-meryio-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
         </a>
       </td>
       <td align="center">
-        <strong>Instagram</strong><br>
         <a href="https://www.instagram.com/saleemyousef/">
           <img src="https://img.shields.io/badge/Instagram-Follow-redt?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge">
         </a>
