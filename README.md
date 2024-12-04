@@ -30,7 +30,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
         </a>
       </td>
       <td align="center">
-        <a href="https://discord.com">
+        <a href="https://discordapp.com/users/543410502278053895">
           <img src="https://img.shields.io/badge/Discord-meryio-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
         </a>
       </td>
