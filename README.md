@@ -23,7 +23,6 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
   <table>
     <tr>
       <td align="center">
-        <strong>Email</strong><br>
         <a href="mailto:saleemcollege@hotmail.com">
           <img src="https://img.shields.io/badge/Outlook-Email_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
         </a>
