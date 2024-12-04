@@ -6,9 +6,12 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - [Cool Project 2](https://github.com/yourproject)
 
 ## 🌱 Currently Learning
-- Advanced Algorithms
-- DevOps
+- Operating Systems
+- Software Network
+- Project Management
 
 ## 📫 Get in Touch
-- Email: youremail@example.com
+- Email: Saleemcollege@hotmail.com
 - LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
+
+- <iframe src="https://github.com/sponsors/Arikatakur/button" title="Sponsor Arikatakur" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
