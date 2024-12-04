@@ -10,7 +10,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Arikatakur&repo=LeafyLodge)](https://github.com/Arikatakur/LeafyLodge)
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=yo&repo=project2)](https://github.com/your-username/project2)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafyLodge&layout=compact)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&layout=compact)](https://github.com/your-username)
 Explore more of my work on [GitHub](https://github.com/LeafyLodge).
 
 
