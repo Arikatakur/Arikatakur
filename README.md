@@ -43,7 +43,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
       <td align="center">
         <strong>Instagram</strong><br>
         <a href="https://www.instagram.com/saleemyousef/">
-          <img src="https://img.shields.io/badge/Instagram-Follow-redt?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+          <img src="https://img.shields.io/badge/Instagram-Follow-redt?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge">
         </a>
       </td>
     </tr>
