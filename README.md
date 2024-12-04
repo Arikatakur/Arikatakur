@@ -8,6 +8,12 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - [![Project 1](https://img.shields.io/badge/GitHub-Project%201-blue?logo=github)](https://github.com/your-username/project1) [![Project 2](https://img.shields.io/badge/GitHub-Project%202-green?logo=github)](https://github.com/your-username/project2)
 
 
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1)](https://github.com/your-username/project1)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2)](https://github.com/your-username/project2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username)
+Explore more of my work on [GitHub](https://github.com/your-username).
+
+
 
 ## 🌱 Currently Learning
 - Operating Systems
