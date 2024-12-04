@@ -12,6 +12,6 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 
 ## 📫 Get in Touch
 - Email: Saleemcollege@hotmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/)
  
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Me-❤-red)](https://github.com/sponsors/Arikatakur)  
