@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
+Welcome to my profile. I'm Saleem Yousef, a software engineering student passionate about building innovative projects!
 
-<!--
-**Arikatakur/Arikatakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
+- [Cool Project 1](https://github.com/yourproject)
+- [Cool Project 2](https://github.com/yourproject)
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Advanced Algorithms
+- DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- Email: youremail@example.com
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
