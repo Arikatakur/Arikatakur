@@ -50,6 +50,6 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
  <div align="center">
 
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Me-❤-red)](https://github.com/sponsors/Arikatakur)  
-[![Profile Views](https://komarev.com/ghpvc/?username=Arikatakur&color=blue&style=for-the-badge)](https://github.com/Arikatakur)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arikatakur&color=blue&style=)](https://github.com/Arikatakur)
 
 </div>
