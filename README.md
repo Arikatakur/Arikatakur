@@ -2,8 +2,7 @@
 Welcome to my profile. I'm Saleem Yousef, a software engineering student passionate about building innovative projects!
 
 ## 🚀 My Projects
-- [Cool Project 1](https://github.com/yourproject)
-- [Cool Project 2](https://github.com/yourproject)
+- [LeafyLodge](https://github.com/LeafyLodge)
 
 ## 🌱 Currently Learning
 - Operating Systems
