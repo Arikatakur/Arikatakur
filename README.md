@@ -11,7 +11,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - Project Management
 
 ## 📫 Get in Touch
-- [![Outlook](https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.png)](mailto:saleemcollege@hotmail.com)
+- [![Outlook](https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.png)](mailto:saleemcollege@outlook.com)
 - [![Outlook](https://img.shields.io/badge/Outlook-Email_Me-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:your-email@outlook.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/)
  
