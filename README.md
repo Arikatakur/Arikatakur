@@ -14,7 +14,9 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - Project Management
 
 ## 📫 Get in Touch
-   [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:saleemcollege@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saleem-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saleemyousef/)
+   [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:saleemcollege@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saleem-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saleemyousef/) ![Discord](https://img.shields.io/badge/meryio%231234-7289DA?style=flat&logo=discord&logoColor=white) [![Discord](https://upload.wikimedia.org/wikipedia/commons/9/91/Discord_logo.svg)](https://discord.gg/HbuRWE7gqK)
+
+
 
  
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Me-❤-red)](https://github.com/sponsors/Arikatakur)  
