@@ -5,7 +5,6 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - [![Project 1](https://img.shields.io/badge/GitHub-LeafyLodge-blue?logo=github)](https://github.com/Arikatakur/LeafyLodge) [![Project 2](https://img.shields.io/badge/GitHub-Project%202-green?logo=github)](https://github.com/your-username/project2)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&layout=compact&theme=dark)](https://github.com/Arikatakur)
-Explore more of my work on [GitHub](https://github.com/Arikatakur).
 
 
 
@@ -15,6 +14,6 @@ Explore more of my work on [GitHub](https://github.com/Arikatakur).
 - Project Management
 
 ## 📫 Get in Touch
-- [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:saleemcollege@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saleem-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/)
+   [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:saleemcollege@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saleem-blue?logo=linkedin)](https://www.linkedin.com/in/saleemyousef/)
  
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Me-❤-red)](https://github.com/sponsors/Arikatakur)  
