@@ -5,8 +5,8 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - [LeafyLodge](https://github.com/LeafyLodge)
 - 
 ## Projects
-- [![Project 1](https://img.shields.io/badge/GitHub-Project%201-blue?logo=github)](https://github.com/your-username/project1) [![Project 2](https://img.shields.io/badge/GitHub-Project%202-green?logo=github)](https://github.com/your-username/project2)
-- 
+- [![Project 1](https://img.shields.io/badge/GitHub-Project%201-blue?logo=github)](https://github.com/Arikatakur/LeafyLodge) [![Project 2](https://img.shields.io/badge/GitHub-Project%202-green?logo=github)](https://github.com/your-username/project2)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&layout=compact&theme=dark)](https://github.com/Arikatakur)
 Explore more of my work on [GitHub](https://github.com/Arikatakur).
 
