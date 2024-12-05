@@ -13,7 +13,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - Software Network
 - Project Management
 
-## 📬 My Contacts
+## 
 
 <div align="center">
 
