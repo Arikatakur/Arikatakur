@@ -6,6 +6,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - [![Project 2](https://img.shields.io/badge/GitHub-Network%20Transmission%20Simulator-green?logo=github)](https://github.com/Arikatakur/Network-Transmission-Simulator)
 - [![Project 3](https://img.shields.io/badge/GitHub-Wifi%20Password%20Tester-red?logo=github)](https://github.com/Arikatakur/WiFi-Password-Tester)
 
+- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&cache_seconds=1800&theme=dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Arikatakur)
 
 
