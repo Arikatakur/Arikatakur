@@ -11,7 +11,8 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 ## 🌱 Currently Learning
 - Operating Systems
 - Software Network
-- Project Management
+- Software Validation and Testing
+- Introduction to Project Management
 
 ## 
 
