@@ -5,7 +5,7 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 - [![Project 1](https://img.shields.io/badge/GitHub-LeafyLodge-blue?logo=github)](https://github.com/Arikatakur/LeafyLodge)
 - [![Project 2](https://img.shields.io/badge/GitHub-Network%20Transmission%20Simulator-green?logo=github)](https://github.com/Arikatakur/Network-Transmission-Simulator)
 - [![Project 3](https://img.shields.io/badge/GitHub-Wifi%20Password%20Tester-red?logo=github)](https://github.com/Arikatakur/WiFi-Password-Tester)
-- [![Project 4]((https://img.shields.io/badge/GitHub-CRC%2Remainder0%20Calculator-purple?logo=github)](https://github.com/Arikatakur/CRC8-Remainder-Calculator)
+- [![Project 4](https://img.shields.io/badge/GitHub-CRC%2Remainder0%20Calculator-purple?logo=github)](https://github.com/Arikatakur/CRC8-Remainder-Calculator)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Arikatakur)
 
