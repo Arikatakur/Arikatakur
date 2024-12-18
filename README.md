@@ -14,9 +14,8 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
   <a href="https://app.netlify.com/sites/saleemyousef/deploys">
     <img src="https://api.netlify.com/api/v1/badges/0d0febaa-1fca-472e-b1cd-8a4c981efff6/deploy-status" alt="Netlify Status" />
   </a>
-  <a href="check out my web">
-    <img src="https://saleemyousef.netlify.app"/>
-  </a>
+   <br />
+  🌐 Live Website: <a href="https://saleemyousef.netlify.app" target="_blank">https://saleemyousef.netlify.app</a>
 </div>
 
 ## 🌱 Currently Learning
