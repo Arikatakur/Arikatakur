@@ -10,8 +10,9 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Arikatakur)
 
 ## My Website:
-<div align="center> 
+<div align="center"> 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0d0febaa-1fca-472e-b1cd-8a4c981efff6/deploy-status)](https://app.netlify.com/sites/saleemyousef/deploys)  
+
 </div>
 
 ## 🌱 Currently Learning
