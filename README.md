@@ -18,7 +18,6 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
   🌐 Profilo: <a href="https://saleemyousef.netlify.app" target="_blank">HERE!</a>
 </div>
 <div align="center">
-  <br />
 🌐 GuideShift <a href="https://guideshift.netlify.app" target="_blank">HERE!</a>  - Still Unfinished
 </div>
 ## 🌱 Currently Learning
