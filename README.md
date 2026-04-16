@@ -22,8 +22,6 @@ Welcome to my profile. I'm Saleem Yousef, a software engineering student passion
 </div>
 
 ## 🌱 Currently Learning
-- HTML & CSS
-- Angular
 
 ## 
 
