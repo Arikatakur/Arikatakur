@@ -8,7 +8,7 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/Software%20Engineering-Student-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Software Engineering Student" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Software Engineering Junior" />
   <img src="https://img.shields.io/badge/AI%2FML-Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI ML Engineering" />
   <img src="https://img.shields.io/badge/Full%20Stack-Development-4F46E5?style=flat-square&logo=stackblitz&logoColor=white" alt="Full Stack Development" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
