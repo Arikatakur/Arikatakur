@@ -8,7 +8,7 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/Software%20Engineering-Student-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Software Engineering Junior" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Junior-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Software Engineering Junior" />
   <img src="https://img.shields.io/badge/AI%2FML-Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI ML Engineering" />
   <img src="https://img.shields.io/badge/Full%20Stack-Development-4F46E5?style=flat-square&logo=stackblitz&logoColor=white" alt="Full Stack Development" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
@@ -49,7 +49,7 @@
 
 <h2 align="center">About</h2>
 
-I am a software engineering student and builder focused on creating reliable, maintainable, and product-minded systems. My work sits at the intersection of full stack engineering, AI/ML experimentation, backend architecture, and practical developer tooling.
+I am a software engineering Junior and builder focused on creating reliable, maintainable, and product-minded systems. My work sits at the intersection of full stack engineering, AI/ML experimentation, backend architecture, and practical developer tooling.
 
 I enjoy turning ambiguous ideas into usable products: designing clean application flows, modeling data carefully, building resilient APIs, and shipping interfaces that feel direct and purposeful. I also build through [ClientVault](https://clientvault.org), a custom websites, apps, and digital systems studio for clients who need polished software delivered with speed and engineering discipline.
 
@@ -234,7 +234,7 @@ GuideShift reflects my interest in building products that reduce friction, organ
 
 <h2 align="center">Experience</h2>
 
-<h3>Software Engineering Student & Independent Developer</h3>
+<h3>Software Engineering Junior & Independent Developer</h3>
 
 <strong>Academic Projects, Personal Products, Open Source</strong>  
 2022 - Present
